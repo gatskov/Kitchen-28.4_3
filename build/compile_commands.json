@@ -1,0 +1,14 @@
+[
+{
+  "directory": "D:/VSCode/exemple4/Kitchen/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/Kitchen.dir/includes_CXX.rsp -g -o CMakeFiles\\Kitchen.dir\\src\\kit.cpp.obj -c D:\\VSCode\\exemple4\\Kitchen\\src\\kit.cpp",
+  "file": "D:/VSCode/exemple4/Kitchen/src/kit.cpp",
+  "output": "CMakeFiles/Kitchen.dir/src/kit.cpp.obj"
+},
+{
+  "directory": "D:/VSCode/exemple4/Kitchen/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/Kitchen.dir/includes_CXX.rsp -g -o CMakeFiles\\Kitchen.dir\\src\\main.cpp.obj -c D:\\VSCode\\exemple4\\Kitchen\\src\\main.cpp",
+  "file": "D:/VSCode/exemple4/Kitchen/src/main.cpp",
+  "output": "CMakeFiles/Kitchen.dir/src/main.cpp.obj"
+}
+]
